@@ -5,6 +5,6 @@ Bibtex dosyası kullanıldı.
 # Veri Analizi için 
 Rstudio İDE'si kullanılmıştır.
 # Veri görselleştirmek için
-Biblioetrix::Biblioshiny
+Bibliometrix::Biblioshiny
 # Poster yapmak için
 Canva kullanılmıştır.
